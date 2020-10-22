@@ -4,4 +4,4 @@
 
 - 使用Swift语言
 
-- 也请关注我的个人博客[MangoTech](www.baronzhang107.xyz)，会分享一些学习的过程和踩坑的记录，谢谢大家！
+- 也请关注我的个人博客[MangoTech](http://www.baronzhang107.xyz/)，会分享一些学习的过程和踩坑的记录，谢谢大家！
