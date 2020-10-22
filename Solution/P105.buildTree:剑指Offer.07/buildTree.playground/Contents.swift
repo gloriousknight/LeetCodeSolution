@@ -86,9 +86,14 @@ class Solution {
  */
 class Solution1 {
     func buildTree(_ preorder: [Int], _ inorder: [Int]) -> TreeNode? {
-        return recusion(0, 0, inorder.count - 1, preorder, inorder)
+        var dic:[Int: Int] = [:]
+        for (index, num) in inorder.enumerated() {
+            dic[index] = num
+        }
+        print(dic)
+        return recusion(0, 0, inorder.count - 1, preorder, inorder,dic: dic)
     }
-    func recusion(_ preRoot: Int, _ inLeft: Int, _ inRight: Int, _ preorder: [Int], _ inorder: [Int]) -> TreeNode? {
+    func recusion(_ preRoot: Int, _ inLeft: Int, _ inRight: Int, _ preorder: [Int], _ inorder: [Int], dic : [Int: Int]) -> TreeNode? {
         //结束条件
         if inLeft > inRight {
             return nil
@@ -98,16 +103,18 @@ class Solution1 {
         let root: TreeNode? = TreeNode(preorder[preRoot])
         //找到跟节点在中序遍历中的索引index
         var index: Int = 0
-        for (i, num) in inorder.enumerated() {
-            if num == preorder[preRoot] {
-                index = i
-            }
-        }
+//        for (i, num) in inorder.enumerated() {
+//            if num == preorder[preRoot] {
+//                index = i
+//            }
+//        }
+        index = Int(dic[preorder[preRoot]]!)
         //构建左子树
-        root?.left = recusion(preRoot+1, inLeft, index - 1, preorder, inorder)
+        root?.left = recusion(preRoot+1, inLeft, index - 1, preorder, inorder,dic: dic)
         //构建右子树
-        root?.right = recusion(index - inLeft + preRoot + 1, index + 1, inRight, preorder, inorder)
+        root?.right = recusion(index - inLeft + preRoot + 1, index + 1, inRight, preorder, inorder,dic: dic)
         //返回值
         return root
     }
 }
+
