@@ -13,7 +13,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[TwoSum](https://leetcode-cn.com/problems/two-sum/) | [Swift](./1. twoSum/twoSum.playground)|Easy|
-|105|[BuildTree](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Swift](./Solution/105. buildTree/剑指Offer.07/buildTree.playground)|Easy|
-|226|[InvertBinaryTree](https://leetcode-cn.com/problems/invert-binary-tree/) | [Swift](./Solution/1. twoSum/twoSum.playground)|Easy|
+|1|[TwoSum](https://leetcode-cn.com/problems/two-sum/) | [Swift](./Solution/P1.twoSum/twoSum.playground)|Easy|
+|105|[BuildTree](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Swift](./Solution/P105.buildTree/剑指Offer.07/buildTree.playground)|Easy|
+|226|[InvertBinaryTree](https://leetcode-cn.com/problems/invert-binary-tree/) | [Swift](./Solution/P226.invertTree/twoSum.playground)|Easy|
 
