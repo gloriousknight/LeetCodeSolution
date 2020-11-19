@@ -30,3 +30,9 @@ class Solution {
         return Character(UnicodeScalar(asciiValue))
     }
 }
+var a = 3, b = 5
+var temp = a ^ b
+a = temp ^ a
+b = temp ^ b
+print(a)
+print(b)
