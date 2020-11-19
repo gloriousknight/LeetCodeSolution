@@ -18,7 +18,7 @@
 |54|[SpiralOrder](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [Swift](./Solution/P54.SpiralOrder剑指Offer29/spiralOrder.playground)|Easy| |
 |70|[ClimbStairs/剑指Offer.10](https://leetcode-cn.com/problems/climbing-stairs/) | [Swift](./Solution/P70.ClimbStairs.剑指Offer10/climbStairs.playground)|Easy| |
 |105|[BuildTree/剑指Offer.07](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Swift](./Solution/P105.BuildTree.剑指Offer07/buildTree.playground)|Medium| |
-|136|[SingleNumber](https://leetcode-cn.com/problems/single-number/) | | [Swift](./Solution/P136.SingleNumber/singleNumber.playground)|Easy| |
+|136|[SingleNumber](https://leetcode-cn.com/problems/single-number/) | [Swift](./Solution/P136.SingleNumber/singleNumber.playground)|Easy| |
 |226|[InvertBinaryTree](https://leetcode-cn.com/problems/invert-binary-tree/) | [Swift](./Solution/P226.InvertTree/invertTree.playground)|Easy| |
 |389|[FindTheDifference](https://leetcode-cn.com/problems/find-the-difference/) | [Swift](./Solution/P389.FindTheDifference/findTheDifference.playground)|Easy| |
 |426|[TreeToDoublyList/剑指Offer36](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [Swift](./Solution/P426.TreeToDoublyList.剑指Offer36/treeToDoublyList.playground)|Medium| |
