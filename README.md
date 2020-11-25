@@ -22,7 +22,7 @@
 |105|[BuildTree/剑指Offer.07](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Swift](./Solution/P105.BuildTree.剑指Offer07/buildTree.playground)|Medium| 递归 |
 |136|[SingleNumber](https://leetcode-cn.com/problems/single-number/) | [Swift](./Solution/P136.SingleNumber/singleNumber.playground)|Easy| 位运算 |
 |147|[InsertionSortList](https://leetcode-cn.com/problems/insertion-sort-list/) | [Swift](./Solution/P147.InsertionSortList/insertionSortList.playground)|Medium| 插入排序 |
-|226|[InvertBinaryTree](https://leetcode-cn.com/problems/invert-binary-tree/) | [Swift](./Solution/P226.InvertTree/invertTree.playground)|Medium| 递归 |
+|226|[InvertBinaryTree](https://leetcode-cn.com/problems/invert-binary-tree/) | [Swift](./Solution/P226.invertTree/invertTree.playground)|Medium| 递归 |
 |389|[FindTheDifference](https://leetcode-cn.com/problems/find-the-difference/) | [Swift](./Solution/P389.FindTheDifference/findTheDifference.playground)|Easy| 位运算 |
 |426|[TreeToDoublyList/剑指Offer36](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [Swift](./Solution/P426.TreeToDoublyList.剑指Offer36/treeToDoublyList.playground)|Medium| 递归+中序遍历 |
 
