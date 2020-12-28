@@ -1,6 +1,7 @@
-# LeetCodeSwift
+# LeetCodeSolution
 
 记录一下自己使用Swift解LeetCode题目的过程和解法，记录学习的过程，分享给大家，争取每天更新！！
+2020-12-28更新：使用Python解决剩余LeetCode问题。
 - 使用Swift语言
 - 题目描述和解析在playground中都有详细记录
 - 数据结构与算法的相关实践存放到了[Data Structures & Algorithm](./Data%20Structures%20%26%20Algorithm)
