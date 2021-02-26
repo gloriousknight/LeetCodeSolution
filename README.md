@@ -1,7 +1,7 @@
 # LeetCodeSolution
 
-记录一下自己使用Swift解LeetCode题目的过程和解法，记录学习的过程，分享给大家，争取每天更新！！
-2020-12-28更新：使用Python解决剩余LeetCode问题。
+记录一下自己解LeetCode题目的过程和解法，记录学习的过程，分享给大家，争取每天更新！！
+> 2020-12-28更新：使用Python解决剩余LeetCode问题。
 - 使用Swift语言
 - 题目描述和解析在playground中都有详细记录
 - 数据结构与算法的相关实践存放到了[Data Structures & Algorithm](./Data%20Structures%20%26%20Algorithm)
@@ -17,8 +17,10 @@
 |---| ----- | -------- | ---------- | ----------- |
 |1|[TwoSum](https://leetcode-cn.com/problems/two-sum/) | [Swift](./Solution/P1.TwoSum/twoSum.playground)|Easy| 循环字典 |
 |7|[ReverseInt](https://leetcode-cn.com/problems/reverse-integer/) | [Swift](./Solution/P7.ReverseInt/reverseInt.playground)|Easy|数学方法|
-|21|[MergeTwoLists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Swift](./Solution/P21.MergeTwoLists/mergeTwoLists.playground)|Easy| 递归，迭代
+|21|[MergeTwoLists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Swift](./Solution/P21.MergeTwoLists/mergeTwoLists.playground)|Easy| 递归，迭代|
+|35|[SearchInsert](https://leetcode-cn.com/problems/search-insert-position/) | [Python](./Solution_Python/P35.SearchInsert/35.搜索插入位置.py)|Easy| 二分搜索|
 |54|[SpiralOrder](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [Swift](./Solution/P54.SpiralOrder剑指Offer29/spiralOrder.playground)|Easy| 循环打印 |
+|58|[LengthOfLastWord](https://leetcode-cn.com/problems/length-of-last-word/) | [Python](./Solution/P58.LengthOfLastWord/58.最后一个单词的长度.py)|Easy| 倒序查找 |
 |70|[ClimbStairs/剑指Offer.10](https://leetcode-cn.com/problems/climbing-stairs/) | [Swift](./Solution/P70.ClimbStairs.剑指Offer10/climbStairs.playground)|Easy| 递归，斐波那契数列 |
 |102|[LevelOrder](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [Swift](./Solution/P102.LevelOrder/levelOrder.playground)|Medium| 层序遍历二叉树，BFS广度优先搜索 |
 |105|[BuildTree/剑指Offer.07](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Swift](./Solution/P105.BuildTree.剑指Offer07/buildTree.playground)|Medium| 递归 |
